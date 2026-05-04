@@ -1,0 +1,6 @@
+@CS2WeeklyManage_HostAddress = http://localhost:5215
+
+GET {{CS2WeeklyManage_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
