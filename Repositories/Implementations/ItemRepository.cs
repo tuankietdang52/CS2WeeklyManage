@@ -50,7 +50,7 @@ namespace CS2WeeklyManage.Repositories.Implementations
             catch (Exception ex)
             {
                 return null!;
-            }
+            } 
         }
 
         public async Task<List<Item>> GetAllAsync()
